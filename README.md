@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JakAnushka
 - 👀 I’m interested in coding
-- 🌱 I’m currently pursing my btech in CSEIML
+- 🌱 I’m currently pursing my btech in CSEAIML
+- And this folder is for PYTHON PROJECTS
 
 <!---
 JakAnushka/JakAnushka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
